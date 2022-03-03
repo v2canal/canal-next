@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11741910",
+      "name": "语雀",
+      "font_class": "tubiaozhizuomoban",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    }
+  ]
+}
